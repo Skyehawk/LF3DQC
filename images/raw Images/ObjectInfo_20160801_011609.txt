@@ -1,0 +1,21 @@
+Rectangle Info: 
+Threshold: 150
+Objects Found: 17
+Image Skew: -5.90000000000001
+{X=1636,Y=1050,Width=336,Height=84}
+{X=1975,Y=1087,Width=10,Height=16}
+{X=1983,Y=1120,Width=2,Height=11}
+{X=1614,Y=1134,Width=18,Height=7}
+{X=1604,Y=1140,Width=11,Height=19}
+{X=1595,Y=1151,Width=8,Height=133}
+{X=1979,Y=1204,Width=5,Height=106}
+{X=1595,Y=1289,Width=2,Height=28}
+{X=1595,Y=1318,Width=2,Height=36}
+{X=1981,Y=1357,Width=2,Height=17}
+{X=1597,Y=1385,Width=26,Height=51}
+{X=1981,Y=1413,Width=2,Height=10}
+{X=1654,Y=1445,Width=293,Height=99}
+{X=1980,Y=1486,Width=2,Height=15}
+{X=1979,Y=1502,Width=3,Height=22}
+{X=1960,Y=1526,Width=22,Height=30}
+{X=2001,Y=1842,Width=13,Height=22}
